@@ -1,0 +1,3 @@
+#!/bin/bash
+
+amixer -q sset Capture 5%+
